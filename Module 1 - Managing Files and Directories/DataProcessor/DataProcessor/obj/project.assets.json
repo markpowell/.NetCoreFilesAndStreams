@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\powel\\Desktop\\PluralsightCourses\\Working with Files and Streams in C#\\Projects\\Module 1 - Managing Files and Directories\\01NewConsoleApp\\DataProcessor\\DataProcessor.csproj",
+      "projectUniqueName": "C:\\Users\\powel\\Desktop\\PluralsightCourses\\Working with Files and Streams in C#\\Projects\\Module 1 - Managing Files and Directories\\DataProcessor\\DataProcessor\\DataProcessor.csproj",
       "projectName": "DataProcessor",
-      "projectPath": "C:\\Users\\powel\\Desktop\\PluralsightCourses\\Working with Files and Streams in C#\\Projects\\Module 1 - Managing Files and Directories\\01NewConsoleApp\\DataProcessor\\DataProcessor.csproj",
+      "projectPath": "C:\\Users\\powel\\Desktop\\PluralsightCourses\\Working with Files and Streams in C#\\Projects\\Module 1 - Managing Files and Directories\\DataProcessor\\DataProcessor\\DataProcessor.csproj",
       "packagesPath": "C:\\Users\\powel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\powel\\Desktop\\PluralsightCourses\\Working with Files and Streams in C#\\Projects\\Module 1 - Managing Files and Directories\\01NewConsoleApp\\DataProcessor\\obj\\",
+      "outputPath": "C:\\Users\\powel\\Desktop\\PluralsightCourses\\Working with Files and Streams in C#\\Projects\\Module 1 - Managing Files and Directories\\DataProcessor\\DataProcessor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

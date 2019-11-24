@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "--file C:\\Users\\powel\\Desktop\\SW_updates_20191117_0\\accounts_info_5_year.txt"
+    }
+  }
+}
